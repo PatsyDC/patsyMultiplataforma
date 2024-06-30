@@ -16,7 +16,8 @@ class AppRoutes {
     MenuOption(route: 'loginCofee', icon: Icons.coffee_sharp, name: 'Login Coffe', screen: const LoginCafe()),
     MenuOption(route: 'avatar', icon: Icons.all_inclusive_sharp, name: 'AvatarScreen', screen: const AvatarScreen()),
     MenuOption(route: 'animated', icon: Icons.animation, name: 'AnimatesScreen', screen: const AnimatedScreen()),
-    MenuOption(route: 'login', icon: Icons.login , name: 'Login', screen: const LoginScreen())
+    MenuOption(route: 'login', icon: Icons.login , name: 'Login', screen: const LoginScreen()),
+    MenuOption(route: 'pokeApi', icon: Icons.videogame_asset, name: 'Poke Api', screen: const PokeApi())
 
   ];
 

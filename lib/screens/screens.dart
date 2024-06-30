@@ -5,5 +5,6 @@ export 'package:fl_components/screens/listview2_screen.dart';
 export 'package:fl_components/screens/listview1_screen.dart';
 export 'package:fl_components/screens/login_cafe.dart';
 export 'package:fl_components/screens/login_page.dart';
+export 'package:fl_components/screens/poke_api_screen.dart';
 
 
